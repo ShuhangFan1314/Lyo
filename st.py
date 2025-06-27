@@ -39,7 +39,7 @@ TOOL_MAP = {
 VIAL_SIZES = {
     "2R": {"diameter": 16.0, "height": 22.0, "Wall_thickness": 1.0, "bottom_thickness":0.7}, 
     "6R": {"diameter": 22.0, "height": 26.0, "Wall_thickness": 1.0, "bottom_thickness":0.7},
-    "10R": {"diameter": 24.0, "height": 30.0, "Wall_thickness": 1.0, "bottom_thickness":0.7}
+    "10R": {"diameter": 24.0, "height": 30.0, "Wall_thickness": 1.0, "bottom_thickness":0.7},
     "20R": {"diameter": 30.0, "height": 35.0, "Wall_thickness": 1.2, "bottom_thickness":1.0}
 }
 
